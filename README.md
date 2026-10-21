@@ -1,7 +1,7 @@
 # Tauri + React + Typescript
 personal project
 
- you started developing with Tauri, React and Typescript in Vite.
+ 
 
 ## Recommended IDE Setup
 
